@@ -20,7 +20,7 @@ STEP 5:Include Necessary parameters in each functions.
 # Coding and Output:
 ### NAME  : V RAKSHA DHARANIKA
 ### REG :212223230167
- ```py
+ ```
  import matplotlib.pyplot as plt
 x=[0,1,2,3,4,5]
 y=[0,1,4,9,16,25]
@@ -29,7 +29,7 @@ plt.show()
  ```
 ![alt text](1.png) 
 
-```py
+```
 import matplotlib.pyplot as plt
 x=[1,2,3]
 y=[2,4,1]
@@ -41,7 +41,7 @@ plt.show()
 ```
 ![alt text](2.png)
 
-```py
+```
 import matplotlib.pyplot as plt
 x1=[1,2,3]
 y1=[2,4,1]
@@ -57,7 +57,7 @@ plt.show()
 ```
 ![alt text](3.png)
 
-```py
+```
 import matplotlib.pyplot as plt
 x=[1,2,3,4,5,6]
 y=[2,4,1,5,2,6]
